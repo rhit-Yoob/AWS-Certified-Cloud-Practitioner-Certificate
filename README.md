@@ -1,7 +1,9 @@
 # AWS-Certified-Cloud-Practitioner-Certificate
 🎓 Certification Achieved
 AWS Certified Cloud Practitioner (CLF-C02) - Passed January 17, 2026
+
 https://www.credly.com/earner/earned/share/23c96aed-2f08-43b0-8c53-a9b6cd57bffb
+
 📋 Overview
 This repository documents my comprehensive journey to earning the AWS Cloud Practitioner certification. It includes detailed study notes, key concepts, hands-on practice experiences, and curated resources that helped me successfully pass the exam on my first attempt.
 The AWS Cloud Practitioner certification serves as the foundational stepping stone into the world of cloud computing and demonstrates a solid understanding of AWS services, architecture, and best practices.
