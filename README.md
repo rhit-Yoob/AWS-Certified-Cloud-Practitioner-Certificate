@@ -7,6 +7,7 @@ https://www.credly.com/badges/23c96aed-2f08-43b0-8c53-a9b6cd57bffb/public_url
 📋 Overview
 This repository documents my comprehensive journey to earning the AWS Cloud Practitioner certification. It includes detailed study notes, key concepts, hands-on practice experiences, and curated resources that helped me successfully pass the exam on my first attempt.
 The AWS Cloud Practitioner certification serves as the foundational stepping stone into the world of cloud computing and demonstrates a solid understanding of AWS services, architecture, and best practices.
+
 🎯 About the Certification
 The AWS Certified Cloud Practitioner validates foundational, high-level knowledge of AWS Cloud services and general cloud computing concepts. This certification is ideal for individuals in technical, managerial, sales, purchasing, or financial roles who work with the AWS Cloud.
 Exam Domains Covered:
