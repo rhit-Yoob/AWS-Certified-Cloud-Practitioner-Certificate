@@ -4,11 +4,11 @@ AWS Certified Cloud Practitioner (CLF-C02) - Passed January 17, 2026
 
 https://www.credly.com/badges/23c96aed-2f08-43b0-8c53-a9b6cd57bffb/public_url
 
-📋 Overview
+## 📋 Overview
 This repository documents my comprehensive journey to earning the AWS Cloud Practitioner certification. It includes detailed study notes, key concepts, hands-on practice experiences, and curated resources that helped me successfully pass the exam on my first attempt.
 The AWS Cloud Practitioner certification serves as the foundational stepping stone into the world of cloud computing and demonstrates a solid understanding of AWS services, architecture, and best practices.
 
-🎯 About the Certification
+## 🎯 About the Certification
 The AWS Certified Cloud Practitioner validates foundational, high-level knowledge of AWS Cloud services and general cloud computing concepts. This certification is ideal for individuals in technical, managerial, sales, purchasing, or financial roles who work with the AWS Cloud.
 Exam Domains Covered:
 
@@ -20,7 +20,7 @@ Billing, Pricing, and Support (12%) - AWS pricing models, account structures, bi
 Exam Details:
 Score: 700/1000
 
-📚 Study Resources
+## 📚 Study Resources
 Primary Resource
 freeCodeCamp AWS Cloud Practitioner Course
 
@@ -46,7 +46,7 @@ AWS Whitepapers (AWS Well-Architected Framework, AWS Pricing)
 Practice exams and flashcards
 AWS Skill Builder learning paths
 
-🗂️ Key Topics and Concepts Mastered
+## 🗂️ Key Topics and Concepts Mastered
 Cloud Computing Fundamentals
 
 What is Cloud Computing and its benefits
@@ -120,7 +120,7 @@ AWS Config - Resource configuration tracking
 Systems Manager - Operations management
 CloudFormation - Infrastructure as Code
 
-💡 My Study Approach
+## 💡 My Study Approach
 Timeline
 
 Total Study Duration: 2 Weeks of focus study
@@ -143,7 +143,7 @@ Creating comparison charts for similar services (e.g., S3 vs. EBS vs. EFS)
 Understanding the "why" behind AWS services, not just memorizing features
 Focusing on use cases and scenarios rather than just technical specifications
 
-🛠️ Hands-On Practice Projects
+## 🛠️ Hands-On Practice Projects
 During my preparation, I created several mini-projects to reinforce learning:
 
 Set up a basic VPC with public and private subnets
@@ -153,7 +153,7 @@ Launched and configured EC2 instances
 Explored different S3 storage classes and lifecycle policies
 Set up CloudWatch alarms and billing alerts
 
-📈 Exam Experience
+## 📈 Exam Experience
 Preparation Tips
 
 Understand the AWS Shared Responsibility Model thoroughly
@@ -171,7 +171,7 @@ Flag uncertain questions for review
 Manage time effectively (90 minutes for 65 questions)
 Stay calm and trust your preparation
 
-🎯 Key Takeaways
+## 🎯 Key Takeaways
 
 Cloud computing is transforming how businesses operate
 AWS offers a comprehensive suite of services for virtually any use case
@@ -179,7 +179,7 @@ Security and cost optimization are critical considerations
 The Well-Architected Framework provides excellent design principles
 Hands-on practice is essential for truly understanding AWS services
 
-🚀 What's Next?
+## 🚀 What's Next?
 Now that I've achieved the AWS Cloud Practitioner certification, my next goals include:
 
 AWS Solutions Architect Associate - Diving deeper into AWS architecture and design
@@ -187,13 +187,13 @@ Building Cloud Projects - Applying knowledge to real-world applications
 Continuous Learning - Staying updated with new AWS services and features
 Community Contribution - Sharing knowledge and helping others on their cloud journey
 
-💬 Connect With Me
+💬##  Connect With Me
 If you're also preparing for this certification or have questions about my journey, feel free to reach out!
 
 LinkedIn: www.linkedin.com/in/brian-yoo-422a2b288
 Email: ibrianyoo@gmail.com
 
-🙏 Acknowledgments
+## 🙏 Acknowledgments
 Special thanks to:
 
 Andrew Brown and ExamPro for the exceptional freeCodeCamp course
